@@ -1,9 +1,10 @@
-﻿<Properties StartupItem="MacEol\MacEol.csproj">
+﻿<Properties StartupItem="MacEol/MacEol.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AnotherMac\AnotherMac.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnotherMac/AnotherMac.csproj">
     <Files>
-      <File FileName="MacEol\MacEol.csproj" Line="1" Column="1" />
-      <File FileName="AnotherMac\AnotherMac.csproj" Line="1" Column="1" />
+      <File FileName="MacEol.sln" Line="1" Column="1" />
+      <File FileName="MacEol/MacEol.csproj" Line="1" Column="1" />
+      <File FileName="AnotherMac/AnotherMac.csproj" Line="25" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

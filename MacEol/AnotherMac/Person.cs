@@ -6,6 +6,7 @@ namespace AnotherMac
 	{
 		public Person ()
 		{
+			Console.WriteLine ("Hello from Person");
 		}
 	}
 }
